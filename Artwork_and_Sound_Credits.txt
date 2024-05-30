@@ -1,0 +1,8 @@
+Credits for Artwork and Sounds
+Sprite Work - Dungeon Tileset II by 0x72 @ https://0x72.itch.io/dungeontileset-ii
+Music - Memoraphile - Spooky Dungeon by You're Perfect Studio @ https://opengameart.org/content/spooky-dungeon
+Sound Effects - Items, Door, Fire, Weapon Hits by Jute @ https://opengameart.org/content/items-door-fire-weapon-hits
+		RPG Sound Pack by artisticdude @ https://opengameart.org/content/rpg-sound-pack
+		Win Sound #1 by remaxim @ https://opengameart.org/content/win-sound-1
+
+All assets are licensed under Creative Commons and are free to use with attribution.
